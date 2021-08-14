@@ -1,2 +1,2 @@
 # skillnest
-One final stop for upskilling in technology .
+One Stop To Upskill In Technology .
