@@ -1,4 +1,4 @@
-This is a Code of Conduct for the skillnest community. This applies to all interactions here on GitHub, Discord, YouTube comments, and YouTube chat.
+#This is a Code of Conduct for the skillnest community. This applies to all interactions here on GitHub, Discord, YouTube comments, and YouTube chat.
 
 Be mindful of your language. Any of the following behavior is unacceptable:
 
