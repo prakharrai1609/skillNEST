@@ -7,3 +7,6 @@ One Stop To Upskill In Technology 💻
 2. Neeraj Kumawat | Database Manager  
 <br />
 3. Parilakshya Puri | Front-end Developer
+<br />
+4. Pingaksh Pareek | Application Developer
+
