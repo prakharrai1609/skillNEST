@@ -5,3 +5,4 @@ One Stop To Upskill In Technology 💻
 1. Prakhar Rai | Full stack developer
 <br />
 2. Neeraj Kumawat | Database Manager
+3. Parilakshya Puri | Front-end Developer
